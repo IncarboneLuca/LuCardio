@@ -1,0 +1,37 @@
+PCBNEW-LibModule-V1  gio 16 mag 2013 22:20:57 CEST
+# encoding utf-8
+$INDEX
+TouchBtnFinger
+$EndINDEX
+$MODULE TouchBtnFinger
+Po 0 0 0 15 51953F67 51953F3A ~~
+Li TouchBtnFinger
+Sc 51953F3A
+AR /510553FE
+Op 0 0 0
+T0 0 -866 600 600 0 120 N V 21 N "C13"
+T1 0 0 600 600 0 120 N V 21 N "1pF"
+DC 0 0 -1850 -250 150 15
+$PAD
+Sh "1" C 2094 2094 0 0 0
+Dr 0 0 0
+At CONN N 00008000
+Ne 2 "N-000055"
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" R 204 204 0 0 0
+Dr 0 0 0
+At CONN N 00008000
+Ne 1 "GND"
+Po 0 -1900
+$EndPAD
+$PAD
+Sh "2" R 204 204 0 0 0
+Dr 0 0 0
+At CONN N 00008000
+Ne 1 "GND"
+Po 0 1900
+$EndPAD
+$EndMODULE  TouchBtnFinger
+$EndLIBRARY

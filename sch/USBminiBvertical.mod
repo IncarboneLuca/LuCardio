@@ -1,0 +1,64 @@
+PCBNEW-LibModule-V1  mar 21 mag 2013 23:32:08 CEST
+# encoding utf-8
+$INDEX
+USBminiBvertical
+$EndINDEX
+$MODULE USBminiBvertical
+Po 0 0 0 15 519BE7BD 519BE5CB ~~
+Li USBminiBvertical
+Sc 519BE5CB
+AR 
+Op 0 0 0
+T0 0 -1299 600 600 0 120 N V 21 N "USBminiBvertical"
+T1 20 1457 600 600 0 120 N V 21 N "VAL**"
+$PAD
+Sh "4" O 551 1535 0 0 0
+Dr 256 0 0 O 256 945
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1437 0
+$EndPAD
+$PAD
+Sh "4" O 551 1535 0 0 0
+Dr 256 0 0 O 256 945
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1437 0
+$EndPAD
+$PAD
+Sh "1" O 433 669 0 0 0
+Dr 276 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -630 512
+$EndPAD
+$PAD
+Sh "2" O 433 669 0 0 0
+Dr 276 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -315 -512
+$EndPAD
+$PAD
+Sh "3" O 433 669 0 0 0
+Dr 276 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 512
+$EndPAD
+$PAD
+Sh "4" O 433 669 0 0 0
+Dr 276 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 315 -512
+$EndPAD
+$PAD
+Sh "" O 433 669 0 0 0
+Dr 276 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 630 512
+$EndPAD
+$EndMODULE  USBminiBvertical
+$EndLIBRARY

@@ -1,0 +1,22 @@
+PCBNEW-LibModule-V1  Thu 16 May 2013 06:33:45 PM CEST
+# encoding utf-8
+$INDEX
+testpointSMA
+$EndINDEX
+$MODULE testpointSMA
+Po 0 0 0 15 51950A5E 00000000 ~~
+Li testpointSMA
+Sc 00000000
+AR 
+Op 0 0 0
+T0 0 709 600 600 0 120 N V 21 N "testpointSMA"
+T1 0 -709 600 600 0 120 N V 21 N "VAL**"
+$PAD
+Sh "1" C 394 394 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE  testpointSMA
+$EndLIBRARY

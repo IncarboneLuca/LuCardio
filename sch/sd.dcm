@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: gio 20 dic 2012 11:47:34 CET
+#
+$CMP microSDsocket
+D microSD 
+K socket microSD SD 
+$ENDCMP
+#
+#End Doc Library
